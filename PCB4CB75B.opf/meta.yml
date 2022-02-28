@@ -1,0 +1,55 @@
+id: PCB4CB75B
+initial_creation_type: input
+source_metadata:
+  title: Shechen Gyaltsab Gyurme Pema Namgyal
+  language: zh
+  description: 'Texts by and about Shechen Gyatsab Gyurme Pema Namgyal (zhe chen rgyal
+    tshab ''gyur med padma rnam rgyal, 1871–1926):'
+  volume:
+    1d676f164e7e49e4aefa2df148c780b9:
+      title: Advice for Gelong Jampa Dargye
+      parent: Advice
+    85ed696c7e3044b6854b2f53575c5d85:
+      title: A Prayer of Aspiration
+      parent: Aspiration Prayers
+    d7c3ebed04e741e28955c85c2281aca0:
+      title: Lamp Aspiration Prayer
+      parent: Aspiration Prayers
+    ed1753f5c639487d8db2d2f3b0f2313d:
+      title: Biography of Shechen Gyaltsab Gyurme Pema Namgyal
+      parent: Biography
+    13b1dbe5416a4396bf84e7a308ea0241:
+      title: Brief Offering Prayer to Gesar
+      parent: Dharma Protectors
+    16116a1cbb3a4788b95d68628b134508:
+      title: 'Pacifying the Turmoil of the Mamos: A Concise Liturgy'
+      parent: Dharma Protectors
+    c25ec21b44fb46568c0c197b8139814c:
+      title: Guru Yoga of the Great Omniscient One, Longchenpa
+      parent: Guru Yoga
+    5c1596222daa4a4d8496fd7873933259:
+      title: 'Swift Infusion of Blessings: A Guru Yoga based on Jamgön Mipham Gyatso'
+      parent: Guru Yoga
+    971edc9345744ced9144a69ba4856651:
+      title: Prayer for the Long Life of Jamyang Khyentse Chökyi Lodrö
+      parent: Long Life Prayers
+    5a63c0df7cf3467885772020767953f6:
+      title: Prayer for the Long Life of Shechen Rabjam Rinpoche
+      parent: Long Life Prayers
+    ab360182305f4457a4b7c149e7cc731a:
+      title: A Prayer To Padmasambhava
+      parent: Prayers
+    c40df8de021542bea70ebeff7423d532:
+      title: A Prayer to Amitāyus
+      parent: Prayers
+    e04cb8d214fd40b39bedf94b452d5107:
+      title: A Prayer to Mañjughoṣa
+      parent: Prayers
+    c9f7b981c0cd4cb585000783183e6265:
+      title: A Prayer to the Vajradhara of Oḍḍiyāna
+      parent: Prayers
+    a45820825e53496e98d6248fa5f8ce39:
+      title: A Concise Feast Prayer
+      parent: Tsok
+created_at: '2022-03-01T01:34:05.455165'
+last_modified_at: '2022-03-01T01:34:05.455168'
